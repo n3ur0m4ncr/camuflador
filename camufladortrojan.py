@@ -31,7 +31,7 @@ if len(sys.argv) < 2:
                                                                                    
                                                                                           
     """  + END+BLUE+'GitHub: https://github.com/shangow'.format(RED, END).center(69) +
-    '\n' + '\tAutor: {}shangow (Igor Luiz)'.format(YELLOW, RED, YELLOW, BLUE).center(76) +
+    '\n' + '\tAutor: {}shangow'.format(YELLOW, RED, YELLOW, BLUE).center(76) +
     '\n' + '\tVersion: {}1.0{}\n'.format(YELLOW, END).center(80) + '\n')
     
 
