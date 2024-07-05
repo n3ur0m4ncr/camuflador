@@ -1,6 +1,7 @@
 
 
-# CamufladorTrojan
+# Camuflador
+![image](https://github.com/n3ur0m4ncr/camufladortrojan-/assets/33128932/21f5603a-6ecf-45d5-ae7a-2723b415b2da)
 
 _É um programa que serve para juntar dois arquivos, camuflando o malware em uma arquivo legitimo, utilizando a linguagem Python de forma simples e objetiva._
 _It is a program that serves to join two files, camouflaging the malware in a legitimate file, using the Python language in a simple and objective way._
@@ -35,7 +36,7 @@ _Tutorial de como instalar biblioteca:_
 
 _Autor deste projeto:_
 _Author of this project:_
-* **ShangoW** - *Desenvolvivmento e construção* - [ShangoW](https://github.com/shangow)
+* **n3ur0m4ncr** - *Desenvolvivmento e construção* - [n3ur0m4ncr](https://github.com/n3ur0m4ncr)
          (pt-br)*Development and construction* 
          
 ## Licença-License 📄
